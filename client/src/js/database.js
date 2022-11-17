@@ -33,6 +33,7 @@ export const putDb = async (content) => {
 	console.log(result);
 };
 
+
 // TODO: Add logic for a method that gets all the content from the database
 // Export function we will use to GET to the database
 export const getDb = async (e) => {
