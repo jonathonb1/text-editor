@@ -35,9 +35,9 @@ https://quiet-oasis-72179.herokuapp.com/
 ## User-Instructions
 
 1. Git clone repo to your local machine
-2. you will need to run 'npm insatall' in order to use the dependencies associated with the app.
-3. run 'npm start' and navigate to http://localhost:3000 in order to open the app or go directly to the deployed version of the app by going to:
-   https://quiet-oasis-72179.herokuapp.com/
+2. You will need to run 'npm insatall' in order to use the dependencies associated with the app.
+3. Run 'npm start' and navigate to http://localhost:3000 in order to open the app
+4. Once opened within browswer, you can then install the text editor app locally on your machine.
 
 ---
 
